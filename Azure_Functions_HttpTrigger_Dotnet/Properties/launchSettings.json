@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Functions_HttpTrigger_Dotnet": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7184",
+      "launchBrowser": false
+    }
+  }
+}
